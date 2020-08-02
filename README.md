@@ -4,6 +4,6 @@ I'm from Indonesia and I have been working as Full Stack Web Developer for more 
 ###
 ### Technology
 | ------------- |:-------------:|:-------------:|:-------------:| -------------:|
-| HTML5 | CSS | SCSS | Bootstrap 4 | Materialize |
-| Javascript | Vue Js | React Js | Node Js | xpress Js |
-| Java | Spring Boot | Web Pack | Adobe XD | Photoshop |
+| HTML5         | CSS           | SCSS          | Bootstrap 4   | Materialize   |
+| Javascript    | Vue Js        | React Js      | Node Js       | xpress Js     |
+| Java          | Spring Boot   | Web Pack      | Adobe XD      | Photoshop     |
