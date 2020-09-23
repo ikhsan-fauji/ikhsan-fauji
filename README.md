@@ -4,6 +4,7 @@ I'm from Indonesia and I have been working as Full Stack Web Developer for more 
 #### Contact
 :e-mail: ikhsanfauji.dev@gmail.com
 ###
+![Ikhsan Fauji github stats](https://github-readme-stats.vercel.app/api?username=ikhsan-fauji&show_icons=true)
 ### :wrench: Services
 - Slice Design to HTML
 - Web Design
