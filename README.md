@@ -4,8 +4,6 @@ I'm from Indonesia and I have been working as Full Stack Web Developer for more 
 #### Contact
 :e-mail: ikhsanfauji.dev@gmail.com
 ###
-![Ikhsan Fauji github stats](https://github-readme-stats.vercel.app/api?username=ikhsan-fauji&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsan-fauji)](https://github.com/anuraghazra/github-readme-stats)
 ### :wrench: Services
 - Slice Design to HTML
 - Web Design
@@ -29,3 +27,6 @@ I'm from Indonesia and I have been working as Full Stack Web Developer for more 
 - Web Pack
 - Adobe XD
 - Photoshop
+
+
+![Ikhsan Fauji github stats](https://github-readme-stats.vercel.app/api?username=ikhsan-fauji&show_icons=true)
