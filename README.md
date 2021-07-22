@@ -1,7 +1,23 @@
-### Hello, I'm Ikhsan Fauji 👋
-# Full Stack Engineer and UI/UX Designer
-I'm from Indonesia and I have been working as Full Stack Engineer for more than 2 years. Currently I work at PTBank BTPN Tbk. I have also experience about UI/UX Design for my learning project.
-#### Contact
+## Hello I'm Ikhsan Fauji 👋
+# Full Stack Engineer and UI/UX Enthusiast
+
+Hi, I'm Ikhsan Fauji, Jakarta-based Fullstack Engineer and I enjoy to create a Web 
+Application. I've been working as a Full Stack Engineer for more than 2 years. 
+My main focus is to create a good quality product with good performance, clean 
+and maintainable code. I quick to learn, eazy to adapt, and have a high desire 
+to learn new things. I am ready to make good contributions and grow up 
+together.
+
+``` javascript
+const coding = async (params) => {
+  await writeTestCase(params);
+  const implement = await implementToCode(params);
+  if (implement.hasIssue) debug(params);
+  coding(params);
+}
+```
+
+### Contact
 :e-mail: ikhsanfauji.dev@gmail.com
 ###
 ### :wrench: Services
