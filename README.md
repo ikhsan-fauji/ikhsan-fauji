@@ -27,7 +27,7 @@ Back End Development | Mobile Development | UI / UX
 
 ###
 ### Technology
-HTML5 | CSS3 | Flexbos | SASS | JavaScript | jQuery | eslint | Bootstrap | Materialize | Vuetify 
+HTML5 | CSS3 | Flexbox | SASS | JavaScript | jQuery | eslint | Bootstrap | Materialize | Vuetify 
 --- | --- | --- | ---  | ---  | ---  | ---  | ---  | ---  | ---
 Vue | React | Flutter | Express | Java | Spring Boot | Docker | Webpack | Workbox | Jasmine 
 Jest | MySql | Sql Server | Heroku | Netlify | Firebase | Postgree | MongoDb | Git | Gitlab
