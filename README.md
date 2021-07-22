@@ -27,6 +27,7 @@ Back End Development | Mobile Development | UI / UX
 
 ###
 ### :computer: Technology
+![alt text](https://github.com/ikhsan-fauji/ikhsan-fauji/blob/icons/html-5.png?raw=true)
 - HTML5
 - CSS
 - SCSS
