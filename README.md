@@ -12,7 +12,7 @@ together.
 const coding = async (params) => {
   await writeTestCase(params);
   const implement = await implementToCode(params);
-  if (implement.hasIssue) debug(params);
+  if (implement.hasIssues) debug(params);
   coding(params);
 }
 ```
