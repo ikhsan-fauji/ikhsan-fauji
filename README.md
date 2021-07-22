@@ -26,7 +26,10 @@ Slice Design to HTML | Web Design | Front End Development
 Back End Development | Mobile Development | UI / UX
 
 ###
-### :computer: Technology
-![alt text](https://github.com/ikhsan-fauji/ikhsan-fauji/blob/icons/html-5.png?raw=true)
+### Technology
+--- | --- | --- 
+HTML5 | CSS3 | Front End Development
+--- | --- | --- 
+Back End Development | Mobile Development | UI / UX
 
 ![Ikhsan Fauji github stats](https://github-readme-stats.vercel.app/api?username=ikhsan-fauji&show_icons=true)
