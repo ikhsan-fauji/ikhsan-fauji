@@ -28,21 +28,5 @@ Back End Development | Mobile Development | UI / UX
 ###
 ### :computer: Technology
 ![alt text](https://github.com/ikhsan-fauji/ikhsan-fauji/blob/icons/html-5.png?raw=true)
-- HTML5
-- CSS
-- SCSS
-- Bootstrap 4 
-- Materialize
-- Javascript
-- Vue Js 
-- React Js
-- Node Js
-- Express Js
-- Java 
-- Spring Boot
-- Web Pack
-- Adobe XD
-- Photoshop
-
 
 ![Ikhsan Fauji github stats](https://github-readme-stats.vercel.app/api?username=ikhsan-fauji&show_icons=true)
