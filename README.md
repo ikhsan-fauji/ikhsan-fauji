@@ -1,5 +1,5 @@
 ## Hello I'm Ikhsan Fauji 👋
-# Full Stack Engineer and UI/UX Enthusiast
+# Full Stack Engineer
 
 Hi, I'm Ikhsan Fauji, Jakarta-based Fullstack Engineer and I enjoy to create a Web 
 Application. I've been working as a Full Stack Engineer for more than 2 years. 
