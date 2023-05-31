@@ -13,6 +13,7 @@ together.
 ###
 ### Services
 Front End Development | Back End Development | Mobile Development
+--- | --- | ---
 
 ###
 ### Technology
