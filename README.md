@@ -8,22 +8,11 @@ and maintainable code. I quick to learn, eazy to adapt, and have a high desire
 to learn new things. I am ready to make good contributions and grow up 
 together.
 
-``` javascript
-const coding = async (params) => {
-  await writeTestCase(params);
-  const implement = await implementToCode(params);
-  if (implement.hasIssues) debug(params);
-  coding(params);
-}
-```
-
 ### Contact
 :e-mail: ikhsanfauji.dev@gmail.com
 ###
 ### Services
-Slice Design to HTML | Web Design | Front End Development
---- | --- | --- 
-Back End Development | Mobile Development | UI / UX
+Front End Development | Back End Development | Mobile Development
 
 ###
 ### Technology
